@@ -1,87 +1,84 @@
-<h1 align="center">Hey 👋 What's up?</h1>
 
-###
+# Shehab Eldin
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+### Full-Stack Developer | Backend Engineering | Networking & Cloud Technologies
 
-###
+JavaScript & TypeScript | React & Node.js | Software Engineering & Infrastructure
 
-<h4 align="left">My name is Ahmed<br>I'm a passionate learner and future Full Stack, AI Developer and Networking <br> From: 🌍</h4>
+📍 Hargeisa, Somaliland
 
-###
+---
 
-<h2 align="left">About me</h2>
+## Profile
 
-###
+A software developer interested in building reliable web applications and understanding the infrastructure behind them.
 
-<p align="left">✨ Creating bugs and fixing them one commit at a time 😄<br>⚛️ Currently learning React.js and improving my frontend development skills<br>🎯 My goal is to become a Full Stack Developer who can build both web and mobile apps powered by AI<br>🌿 Fun fact: I get many coding ideas from art and nature 🌙</p>
+My technical background includes frontend development, backend programming, database management, and API development. I enjoy exploring how different technologies work together, from application logic and data management to networking and deployment.
 
-###
+I'm currently broadening my skills in network engineering, Linux, cloud computing, and DevOps, with an interest in connecting software development with infrastructure engineering.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ahmed-abdisalam-415579307/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/eldinshehab87" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
+---
 
-###
+## Technical Expertise
 
-<h2 align="left">I code with</h2>
+**Programming & Web Development**
 
-###
+JavaScript · TypeScript · HTML5 · CSS3 · React.js · Tailwind CSS
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-</div>
-  
-###
-  
-<div>
-  <img style="100%" aling="center" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+**Backend & Application Development**
 
-###
-</div>
+Node.js · Express.js · REST APIs · Authentication · API Integration
 
-###
+**Databases**
+
+MySQL · MongoDB
+
+**Development Tools**
+
+Git · GitHub · VS Code · Cursor
+
+**Infrastructure & Networking**
+
+Computer Networking · Linux Fundamentals · Cloud Computing · DevOps
+
+---
+
+## Areas of Interest
+
+- Backend Systems & API Architecture
+- Full-Stack Application Development
+- Network Engineering & Infrastructure
+- Cloud Computing & DevOps
+- AI Integration & Automation
+- Software Deployment & System Design
+
+---
+
+## Education & Training
+
+**University Studies**
+Completed — 2026
+
+**Technical Development**
+Full-Stack Web Development — Dugsiiye Mentorship
+
+Focus areas:
+- Frontend Engineering
+- Backend Development with Node.js
+- TypeScript & Database Management
+- Practical Application Development
+
+---
+
+## Current Direction
+
+Developing a broader engineering skill set through practical software projects and infrastructure learning.
+
+My focus is on strengthening backend development, gaining hands-on networking experience, and progressing towards cloud and DevOps engineering.
+
+---
+
+## Connect
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: YOUR_LINKEDIN_URL
