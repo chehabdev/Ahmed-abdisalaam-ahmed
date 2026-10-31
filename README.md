@@ -5,9 +5,14 @@
 
 JavaScript & TypeScript | React & Node.js | Software Engineering & Infrastructure
 
-currently in 📍 Hargeisa, Somaliland
+📍 Currently based in Hargeisa, Somaliland
 
 ---
+  <!-- Visitor Counter Badge -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Aishagojo&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </p>
+</div>
 
 ## Profile
 
@@ -79,4 +84,3 @@ My focus is on strengthening backend development, gaining hands-on networking ex
 
 - GitHub: https://github.com/chehabdev
 - LinkedIn: www.linkedin.com/in/ahmed-abdisalam87
-- 
