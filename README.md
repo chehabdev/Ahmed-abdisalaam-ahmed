@@ -5,7 +5,7 @@
 
 JavaScript & TypeScript | React & Node.js | Software Engineering & Infrastructure
 
-📍 Hargeisa, Somaliland
+currently in 📍 Hargeisa, Somaliland
 
 ---
 
