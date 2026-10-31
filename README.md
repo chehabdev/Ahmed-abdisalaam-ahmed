@@ -1,5 +1,5 @@
 
-# Ahmed abdisalam salah
+# Ahmed Abdisalam Salah
 
 ### Full-Stack Developer | Backend Engineering | Networking & Cloud Technologies
 
