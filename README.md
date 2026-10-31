@@ -1,5 +1,5 @@
 
-# Shehab Eldin
+# Ahmed abdisalam salah
 
 ### Full-Stack Developer | Backend Engineering | Networking & Cloud Technologies
 
@@ -56,9 +56,6 @@ Computer Networking · Linux Fundamentals · Cloud Computing · DevOps
 
 ## Education & Training
 
-**University Studies**
-Completed — 2026
-
 **Technical Development**
 Full-Stack Web Development — Dugsiiye Mentorship
 
@@ -80,5 +77,6 @@ My focus is on strengthening backend development, gaining hands-on networking ex
 
 ## Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: YOUR_LINKEDIN_URL
+- GitHub: https://github.com/chehabdev
+- LinkedIn: www.linkedin.com/in/ahmed-abdisalam87
+- 
